@@ -1,0 +1,4 @@
+metric,best_value,combination,E_function,A_function,p_value
+Silhouette Score,0.3006798942853943,E_FD_R_A2_p4.0,E_FD_R,A2,4.0
+Davies-Bouldin Score,0.0,E_LK_A4,E_LK,A4,
+Calinski-Harabasz Score,inf,E_LK_A4,E_LK,A4,

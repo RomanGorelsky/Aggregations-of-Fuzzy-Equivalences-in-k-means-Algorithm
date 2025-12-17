@@ -1,0 +1,62 @@
+dataset,E,A,p,silhouette_score,davies_bouldin_score,calinski_harabasz_score,n_clusters_found,method,inertia,error,combination
+Absenteeism,Euclidean,Mean,,0.16713875525171773,2.0089502858582207,25.21115291400713,4,Standard_KMeans,3030.5544972713333,,Standard_KMeans
+Absenteeism,E_LK,A2,0.1,0.248791526918707,0.9767025138274927,49.409376275734935,4,Fuzzy_Equivalence,,,E_LK_A2_p0.1
+Absenteeism,E_LK,A2,1.0,0.14552132165017562,1.2227464622085098,78.06679852544703,4,Fuzzy_Equivalence,,,E_LK_A2_p1.0
+Absenteeism,E_LK,A2,4.0,0.12558123616474087,1.3118276325083404,101.21174530862797,4,Fuzzy_Equivalence,,,E_LK_A2_p4.0
+Absenteeism,E_LK,A3,,0.0286589857919041,1.7013604698080895,60.159921495681154,4,Fuzzy_Equivalence,,,E_LK_A3
+Absenteeism,E_LK,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_LK_A4
+Absenteeism,E_GG,A2,0.1,0.02796320538654876,1.932707951351156,52.649040740844974,4,Fuzzy_Equivalence,,,E_GG_A2_p0.1
+Absenteeism,E_GG,A2,1.0,0.08421662702607337,1.6364744337085222,77.48129428607429,4,Fuzzy_Equivalence,,,E_GG_A2_p1.0
+Absenteeism,E_GG,A2,4.0,-0.024803709200898475,1.4980484204918074,99.73369477329375,4,Fuzzy_Equivalence,,,E_GG_A2_p4.0
+Absenteeism,E_GG,A3,,0.0,inf,0.0,1,Fuzzy_Equivalence,,,E_GG_A3
+Absenteeism,E_GG,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_GG_A4
+Absenteeism,E_GD,A2,0.1,0.01654363977868834,1.9478476850969744,58.66366102717057,4,Fuzzy_Equivalence,,,E_GD_A2_p0.1
+Absenteeism,E_GD,A2,1.0,0.04998857870089738,1.776248712467611,81.38904033620278,4,Fuzzy_Equivalence,,,E_GD_A2_p1.0
+Absenteeism,E_GD,A2,4.0,0.10483658276134075,1.645369239707392,125.5311706700393,4,Fuzzy_Equivalence,,,E_GD_A2_p4.0
+Absenteeism,E_GD,A3,,0.0,inf,0.0,1,Fuzzy_Equivalence,,,E_GD_A3
+Absenteeism,E_GD,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_GD_A4
+Absenteeism,E_FD,A2,0.1,0.1418858789069062,1.371610269944455,60.12353658906562,4,Fuzzy_Equivalence,,,E_FD_A2_p0.1
+Absenteeism,E_FD,A2,1.0,0.1218056998609173,1.3689526914663095,82.99440839295387,4,Fuzzy_Equivalence,,,E_FD_A2_p1.0
+Absenteeism,E_FD,A2,4.0,0.11678128111450711,1.2964267451667781,100.6584133857937,4,Fuzzy_Equivalence,,,E_FD_A2_p4.0
+Absenteeism,E_FD,A3,,-0.03932321997026729,1.8544730855479892,62.846660525919994,4,Fuzzy_Equivalence,,,E_FD_A3
+Absenteeism,E_FD,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_FD_A4
+Absenteeism,E_LK_R,A2,0.1,0.13270451765611074,1.3521267900448295,58.7865481286442,4,Fuzzy_Equivalence,,,E_LK_R_A2_p0.1
+Absenteeism,E_LK_R,A2,1.0,0.12177420450114788,1.3824418036022257,78.6717372238597,4,Fuzzy_Equivalence,,,E_LK_R_A2_p1.0
+Absenteeism,E_LK_R,A2,4.0,0.09086164106838618,1.2072029962293311,94.20594856730669,4,Fuzzy_Equivalence,,,E_LK_R_A2_p4.0
+Absenteeism,E_LK_R,A3,,0.01124490677225012,1.9221603384312096,64.47145472543843,4,Fuzzy_Equivalence,,,E_LK_R_A3
+Absenteeism,E_LK_R,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_LK_R_A4
+Absenteeism,E_GG_R,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A2_p0.1
+Absenteeism,E_GG_R,A2,1.0,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A2_p1.0
+Absenteeism,E_GG_R,A2,4.0,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A2_p4.0
+Absenteeism,E_GG_R,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A3
+Absenteeism,E_GG_R,A4,,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A4
+Absenteeism,E_GD_R,A2,0.1,0.02958050489544419,1.930475308237293,53.78961137828271,4,Fuzzy_Equivalence,,,E_GD_R_A2_p0.1
+Absenteeism,E_GD_R,A2,1.0,0.08162108719835003,1.637193150159849,74.13790578928905,4,Fuzzy_Equivalence,,,E_GD_R_A2_p1.0
+Absenteeism,E_GD_R,A2,4.0,0.08289551570207168,1.7187415667750923,107.07353239198765,4,Fuzzy_Equivalence,,,E_GD_R_A2_p4.0
+Absenteeism,E_GD_R,A3,,0.0,inf,0.0,1,Fuzzy_Equivalence,,,E_GD_R_A3
+Absenteeism,E_GD_R,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_GD_R_A4
+Absenteeism,E_FD_R,A2,0.1,0.15845461918308776,1.1591629240149801,60.07083074347027,4,Fuzzy_Equivalence,,,E_FD_R_A2_p0.1
+Absenteeism,E_FD_R,A2,1.0,0.17410095799811232,1.3211770512951873,84.68917335630381,4,Fuzzy_Equivalence,,,E_FD_R_A2_p1.0
+Absenteeism,E_FD_R,A2,4.0,0.12182172330393143,1.3947691284096262,110.87080503168143,4,Fuzzy_Equivalence,,,E_FD_R_A2_p4.0
+Absenteeism,E_FD_R,A3,,-0.02322235249231319,1.9209949551374788,64.5921660071066,4,Fuzzy_Equivalence,,,E_FD_R_A3
+Absenteeism,E_FD_R,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_FD_R_A4
+Absenteeism,E_3,A2,0.1,0.03748221500360957,1.9205643488187474,48.59217857811608,4,Fuzzy_Equivalence,,,E_3_A2_p0.1
+Absenteeism,E_3,A2,1.0,0.07765176814545574,1.7711725885303915,73.51362602875311,4,Fuzzy_Equivalence,,,E_3_A2_p1.0
+Absenteeism,E_3,A2,4.0,0.09114634263629143,1.6779397316833191,103.45568948105974,4,Fuzzy_Equivalence,,,E_3_A2_p4.0
+Absenteeism,E_3,A3,,0.0,inf,0.0,1,Fuzzy_Equivalence,,,E_3_A3
+Absenteeism,E_3,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_3_A4
+Absenteeism,E_4,A2,0.1,0.041271655874179525,1.9087667327418352,45.74100595926338,4,Fuzzy_Equivalence,,,E_4_A2_p0.1
+Absenteeism,E_4,A2,1.0,0.14577390180278538,1.4110750308716524,63.9447250839599,4,Fuzzy_Equivalence,,,E_4_A2_p1.0
+Absenteeism,E_4,A2,4.0,0.10053184157278246,1.602743313126322,92.00889768890347,4,Fuzzy_Equivalence,,,E_4_A2_p4.0
+Absenteeism,E_4,A3,,0.0,inf,0.0,1,Fuzzy_Equivalence,,,E_4_A3
+Absenteeism,E_4,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_4_A4
+Absenteeism,E_5,A2,0.1,-0.001106195794440118,1.93917972546975,56.25519984681705,4,Fuzzy_Equivalence,,,E_5_A2_p0.1
+Absenteeism,E_5,A2,1.0,0.07777269109482579,1.6689561405511166,78.3107497675073,4,Fuzzy_Equivalence,,,E_5_A2_p1.0
+Absenteeism,E_5,A2,4.0,-0.010628610462614643,1.5750103518595464,92.1544390756474,4,Fuzzy_Equivalence,,,E_5_A2_p4.0
+Absenteeism,E_5,A3,,0.0,inf,0.0,1,Fuzzy_Equivalence,,,E_5_A3
+Absenteeism,E_5,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_5_A4
+Absenteeism,E_6,A2,0.1,0.13788517249390525,1.3543597392967177,58.99279962340002,4,Fuzzy_Equivalence,,,E_6_A2_p0.1
+Absenteeism,E_6,A2,1.0,0.11244303708820615,1.342935036940499,84.18048663799453,4,Fuzzy_Equivalence,,,E_6_A2_p1.0
+Absenteeism,E_6,A2,4.0,0.013779136487055333,1.290660822271096,92.53843509327551,4,Fuzzy_Equivalence,,,E_6_A2_p4.0
+Absenteeism,E_6,A3,,0.01682803044086436,1.8277261466492989,62.65005837485251,4,Fuzzy_Equivalence,,,E_6_A3
+Absenteeism,E_6,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_6_A4

@@ -1,0 +1,11 @@
+dataset,E,A,p,silhouette_score,davies_bouldin_score,calinski_harabasz_score,n_clusters_found,method,inertia,error,combination
+Absenteeism,E_6,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_6_A4
+Absenteeism,E_GD,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_GD_A4
+Absenteeism,E_5,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_5_A4
+Absenteeism,E_4,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_4_A4
+Absenteeism,E_LK,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_LK_A4
+Absenteeism,E_3,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_3_A4
+Absenteeism,E_FD_R,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_FD_R_A4
+Absenteeism,E_GD_R,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_GD_R_A4
+Absenteeism,E_LK_R,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_LK_R_A4
+Absenteeism,E_GG,A4,,0.42,0.0,inf,2,Fuzzy_Equivalence,,,E_GG_A4

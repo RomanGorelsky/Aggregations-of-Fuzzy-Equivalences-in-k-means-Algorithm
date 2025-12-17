@@ -1,0 +1,62 @@
+dataset,E,A,p,silhouette_score,davies_bouldin_score,calinski_harabasz_score,n_clusters_found,method,inertia,error,combination
+Wholesale_Customers,Euclidean,Mean,,0.5482872649700601,0.927935062930842,140.1351833710643,3,Standard_KMeans,1608.4311488289445,,Standard_KMeans
+Wholesale_Customers,E_LK,A2,0.1,0.8521937239066184,0.5697144083077815,249.9781021646164,3,Fuzzy_Equivalence,,,E_LK_A2_p0.1
+Wholesale_Customers,E_LK,A2,1.0,0.8184137722550321,0.6328918448856834,208.03601360318953,3,Fuzzy_Equivalence,,,E_LK_A2_p1.0
+Wholesale_Customers,E_LK,A2,4.0,0.6817485021355932,0.6267343788188501,220.09648663147775,3,Fuzzy_Equivalence,,,E_LK_A2_p4.0
+Wholesale_Customers,E_LK,A3,,0.7583110311285441,1.1647411421200486,155.40640965605286,3,Fuzzy_Equivalence,,,E_LK_A3
+Wholesale_Customers,E_LK,A4,,0.40386220719450966,0.2519200363343527,494.2371905920087,3,Fuzzy_Equivalence,,,E_LK_A4
+Wholesale_Customers,E_GG,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_GG_A2_p0.1
+Wholesale_Customers,E_GG,A2,1.0,0.04645333449339394,1.6552943392260355,206.00676654337306,3,Fuzzy_Equivalence,,,E_GG_A2_p1.0
+Wholesale_Customers,E_GG,A2,4.0,0.12580462913822074,1.5090752438839312,186.94086555231377,3,Fuzzy_Equivalence,,,E_GG_A2_p4.0
+Wholesale_Customers,E_GG,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_GG_A3
+Wholesale_Customers,E_GG,A4,,0.2854074255742492,0.6332936258794232,334.49917627452095,3,Fuzzy_Equivalence,,,E_GG_A4
+Wholesale_Customers,E_GD,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_GD_A2_p0.1
+Wholesale_Customers,E_GD,A2,1.0,0.006245881735014613,2.4645815713812986,222.4863136735489,3,Fuzzy_Equivalence,,,E_GD_A2_p1.0
+Wholesale_Customers,E_GD,A2,4.0,0.0030548858947869162,6.455757487273981,233.08316365580725,3,Fuzzy_Equivalence,,,E_GD_A2_p4.0
+Wholesale_Customers,E_GD,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_GD_A3
+Wholesale_Customers,E_GD,A4,,-0.08833560337706894,5.3687994357683495,244.31160240647822,3,Fuzzy_Equivalence,,,E_GD_A4
+Wholesale_Customers,E_FD,A2,0.1,0.8512979769162303,0.6670347556809183,248.2856529604317,3,Fuzzy_Equivalence,,,E_FD_A2_p0.1
+Wholesale_Customers,E_FD,A2,1.0,0.8195874226819215,0.7525183848192091,224.38228115158978,3,Fuzzy_Equivalence,,,E_FD_A2_p1.0
+Wholesale_Customers,E_FD,A2,4.0,0.7211477568389248,0.9518873467061546,263.7846265717135,3,Fuzzy_Equivalence,,,E_FD_A2_p4.0
+Wholesale_Customers,E_FD,A3,,0.768128835402962,1.2255253215116164,155.87232485721285,3,Fuzzy_Equivalence,,,E_FD_A3
+Wholesale_Customers,E_FD,A4,,0.4684740419099812,0.27767332070501544,1030.2598890853892,3,Fuzzy_Equivalence,,,E_FD_A4
+Wholesale_Customers,E_LK_R,A2,0.1,0.7969929902261436,0.9127095941344864,242.05523558940263,3,Fuzzy_Equivalence,,,E_LK_R_A2_p0.1
+Wholesale_Customers,E_LK_R,A2,1.0,0.7180757063976131,0.7792100104838818,252.09528964823298,3,Fuzzy_Equivalence,,,E_LK_R_A2_p1.0
+Wholesale_Customers,E_LK_R,A2,4.0,0.5977634829233968,0.9148241411177994,297.2144088231422,3,Fuzzy_Equivalence,,,E_LK_R_A2_p4.0
+Wholesale_Customers,E_LK_R,A3,,0.652318906253926,1.521005648975444,160.2117167626165,3,Fuzzy_Equivalence,,,E_LK_R_A3
+Wholesale_Customers,E_LK_R,A4,,0.4027572781109067,0.2559998360567671,326.17070247526726,3,Fuzzy_Equivalence,,,E_LK_R_A4
+Wholesale_Customers,E_GG_R,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A2_p0.1
+Wholesale_Customers,E_GG_R,A2,1.0,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A2_p1.0
+Wholesale_Customers,E_GG_R,A2,4.0,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A2_p4.0
+Wholesale_Customers,E_GG_R,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A3
+Wholesale_Customers,E_GG_R,A4,,0.0,inf,0.0,0,Fuzzy_Equivalence,,Unknown fuzzy equivalence function: E_GG_R,E_GG_R_A4
+Wholesale_Customers,E_GD_R,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_GD_R_A2_p0.1
+Wholesale_Customers,E_GD_R,A2,1.0,0.01627553890983755,2.9924222638922253,221.51582643054797,3,Fuzzy_Equivalence,,,E_GD_R_A2_p1.0
+Wholesale_Customers,E_GD_R,A2,4.0,0.00601937881849244,7.518815235819061,239.23876588475355,3,Fuzzy_Equivalence,,,E_GD_R_A2_p4.0
+Wholesale_Customers,E_GD_R,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_GD_R_A3
+Wholesale_Customers,E_GD_R,A4,,-0.14146702859527005,19.23386403611866,258.50444168959706,3,Fuzzy_Equivalence,,,E_GD_R_A4
+Wholesale_Customers,E_FD_R,A2,0.1,0.9417680683705263,0.7111673404368011,205.6114333532771,3,Fuzzy_Equivalence,,,E_FD_R_A2_p0.1
+Wholesale_Customers,E_FD_R,A2,1.0,0.9311728126606557,0.6021152938305866,149.83491104846914,3,Fuzzy_Equivalence,,,E_FD_R_A2_p1.0
+Wholesale_Customers,E_FD_R,A2,4.0,0.8896548349788513,0.980001586255845,141.1890385752891,3,Fuzzy_Equivalence,,,E_FD_R_A2_p4.0
+Wholesale_Customers,E_FD_R,A3,,0.8815257424382612,1.29875773904086,101.90906815243208,3,Fuzzy_Equivalence,,,E_FD_R_A3
+Wholesale_Customers,E_FD_R,A4,,0.5542223885164216,0.1381635599129345,6133.05051302103,3,Fuzzy_Equivalence,,,E_FD_R_A4
+Wholesale_Customers,E_3,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_3_A2_p0.1
+Wholesale_Customers,E_3,A2,1.0,0.24216038216799052,1.3838088096835996,129.95847617543993,3,Fuzzy_Equivalence,,,E_3_A2_p1.0
+Wholesale_Customers,E_3,A2,4.0,0.06169296122605113,1.5929597503917228,249.44142639561525,3,Fuzzy_Equivalence,,,E_3_A2_p4.0
+Wholesale_Customers,E_3,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_3_A3
+Wholesale_Customers,E_3,A4,,0.3598536935183497,0.5068178300207914,328.8921454372255,3,Fuzzy_Equivalence,,,E_3_A4
+Wholesale_Customers,E_4,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_4_A2_p0.1
+Wholesale_Customers,E_4,A2,1.0,0.15858855729350105,1.58664920051834,140.21953490197737,3,Fuzzy_Equivalence,,,E_4_A2_p1.0
+Wholesale_Customers,E_4,A2,4.0,0.12767859314966473,1.324163764892039,207.82457940770314,3,Fuzzy_Equivalence,,,E_4_A2_p4.0
+Wholesale_Customers,E_4,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_4_A3
+Wholesale_Customers,E_4,A4,,0.4587907635935285,0.3465414433354628,317.3451165734229,3,Fuzzy_Equivalence,,,E_4_A4
+Wholesale_Customers,E_5,A2,0.1,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_5_A2_p0.1
+Wholesale_Customers,E_5,A2,1.0,0.0516311868867643,1.6509837453248135,204.77629118500087,3,Fuzzy_Equivalence,,,E_5_A2_p1.0
+Wholesale_Customers,E_5,A2,4.0,0.09621323709991958,1.2464354315447734,153.52640565005007,3,Fuzzy_Equivalence,,,E_5_A2_p4.0
+Wholesale_Customers,E_5,A3,,0.0,inf,0.0,0,Fuzzy_Equivalence,,index 2 is out of bounds for axis 1 with size 2,E_5_A3
+Wholesale_Customers,E_5,A4,,0.26748347779309645,0.6971162897856485,342.6424464765711,3,Fuzzy_Equivalence,,,E_5_A4
+Wholesale_Customers,E_6,A2,0.1,0.786898285284962,0.7699824512557502,249.317726876917,3,Fuzzy_Equivalence,,,E_6_A2_p0.1
+Wholesale_Customers,E_6,A2,1.0,0.7185804063849218,0.735778439183672,257.60339599786386,3,Fuzzy_Equivalence,,,E_6_A2_p1.0
+Wholesale_Customers,E_6,A2,4.0,0.5991132231815005,0.9113331056357384,295.74714004492904,3,Fuzzy_Equivalence,,,E_6_A2_p4.0
+Wholesale_Customers,E_6,A3,,0.6582035191094446,1.3959156761254874,165.09747087771345,3,Fuzzy_Equivalence,,,E_6_A3
+Wholesale_Customers,E_6,A4,,0.4016945130490608,0.2587079496264773,318.0731053297115,3,Fuzzy_Equivalence,,,E_6_A4
